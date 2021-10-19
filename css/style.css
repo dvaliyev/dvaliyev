@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #807b7b;
+}
+.spring{
+    text-align: center;
+    width: 600px;
+    height: 400px;
+    margin: 100px auto;
+    background: linear-gradient( to bottom , #740b0b, #0b1674);
+    border-radius: 20px;
+}
+h1{
+    display: block;
+    
+    padding-top: 50px;
+}
+h4{
+    display: block;
+    padding-top:40px;
+}
+p{
+    margin: 50px auto;
+    width: 400px;
+    display: block;
+    
+
+}
+ul{
+    padding-top: 40px ;
+    display: flex;
+}
+ul li{
+    
+    height: 20px;
+    line-height: 20px;
+    padding: 10px;
+    list-style: none;
+}
+img{
+    padding-left: 10px;
+}
